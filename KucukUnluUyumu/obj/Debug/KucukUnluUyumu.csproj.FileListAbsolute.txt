@@ -1,0 +1,11 @@
+c:\users\ybadur\documents\visual studio 2017\Projects\KucukUnluUyumu\KucukUnluUyumu\obj\Debug\KucukUnluUyumu.csprojResolveAssemblyReference.cache
+c:\users\ybadur\documents\visual studio 2017\Projects\KucukUnluUyumu\KucukUnluUyumu\obj\Debug\KucukUnluUyumu.Form1.resources
+c:\users\ybadur\documents\visual studio 2017\Projects\KucukUnluUyumu\KucukUnluUyumu\obj\Debug\KucukUnluUyumu.Properties.Resources.resources
+c:\users\ybadur\documents\visual studio 2017\Projects\KucukUnluUyumu\KucukUnluUyumu\obj\Debug\KucukUnluUyumu.csproj.GenerateResource.Cache
+c:\users\ybadur\documents\visual studio 2017\Projects\KucukUnluUyumu\KucukUnluUyumu\bin\Debug\KucukUnluUyumu.exe.config
+c:\users\ybadur\documents\visual studio 2017\Projects\KucukUnluUyumu\KucukUnluUyumu\bin\Debug\KucukUnluUyumu.exe
+c:\users\ybadur\documents\visual studio 2017\Projects\KucukUnluUyumu\KucukUnluUyumu\bin\Debug\KucukUnluUyumu.pdb
+c:\users\ybadur\documents\visual studio 2017\Projects\KucukUnluUyumu\KucukUnluUyumu\bin\Debug\NZemberek.dll
+c:\users\ybadur\documents\visual studio 2017\Projects\KucukUnluUyumu\KucukUnluUyumu\obj\Debug\KucukUnluUyumu.exe
+c:\users\ybadur\documents\visual studio 2017\Projects\KucukUnluUyumu\KucukUnluUyumu\obj\Debug\KucukUnluUyumu.pdb
+C:\Users\ybadur\documents\visual studio 2017\Projects\KucukUnluUyumu\KucukUnluUyumu\bin\Debug\log4net.dll
